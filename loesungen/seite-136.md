@@ -21,8 +21,15 @@ A: Der Arbeiter braucht etwa 1,5 h.
 Hier soll ein bischen mit den bekannten Gleichungen gespielt werden. Wir wissen
 
 $$
-P =W \cdot t \\
-W = F \cdot s \\
-v = \frac{s}{t} \Rightarrow s = v\cdot t \\
+P =\frac{W}{t} ~~~~(1)\\
+W = F \cdot s ~~(2)\\
+v = \frac{s}{t} \Rightarrow s = v\cdot t ~~(3)\\
 $$
+
+$$
+(3)~in~(2) ~ergibt~ W=F\cdot v\cdot t ~in~(1) \\
+P=\frac{W}{t}=\frac{F\cdot v\cdot t}{t}=F \cdot v
+$$
+
+
 
