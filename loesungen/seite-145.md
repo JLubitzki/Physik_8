@@ -28,5 +28,11 @@ $$
 
 A: Auf 2cm² Wandfläche wirkt eine Kraft von 3,4kN. Die Wanstärke ist für die Berechnung egal. Sie muss in der Praxis natürlich dick genug sein, um dem Druck standzuhalten.
 
-**A4**
+**A4**  
+In einer **Flüssigkeit** herrscht **überall der gleiche Druck**. Wenn nun auf 2cm² 3N=300cN wirken, werden die beiden rechten Kolben solange nach oben gedrückt, bis der linke Kolben auf dem Boden aufschlägt.  
+_Anmerkung:_ Wenn man aber die Massen auf den anderen Kolben entsprechend erhöht oder die Kolben festgeklemmt werden, dann erhöht sich auch der Druck in der Flüssigkeit von 10000Pa auf
+
+$$
+p=\frac{F}{A}=\frac{3N}{0,0002m²}=15000Pa
+$$
 
