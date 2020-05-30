@@ -9,4 +9,5 @@
 * [Seite 136](loesungen/seite-136.md)
 * [Seite 145](loesungen/seite-145.md)
 * [Seite 149](loesungen/seite-149.md)
+* [Seite 153](loesungen/seite-153.md)
 
